@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BC1AB98-159B-48D2-9A84-DE3A9D609DB6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assembly-CSharp</RootNamespace>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Core">
+      <HintPath>..\..\Age-of-War-4.8\assets\bin\Data\Managed\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\Age-of-War-4.8\assets\bin\Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdManager.cs" />
+    <Compile Include="AlexanderAi.cs" />
+    <Compile Include="AtlasAsset.cs" />
+    <Compile Include="AttackTrigger.cs" />
+    <Compile Include="Banner.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="Blood.cs" />
+    <Compile Include="BoneFollower.cs" />
+    <Compile Include="Bullet.cs" />
+    <Compile Include="Bullet10.cs" />
+    <Compile Include="Bullet2.cs" />
+    <Compile Include="Bullet3.cs" />
+    <Compile Include="Bullet4.cs" />
+    <Compile Include="Bullet6.cs" />
+    <Compile Include="Bullet7.cs" />
+    <Compile Include="Bullet8.cs" />
+    <Compile Include="Bullet9.cs" />
+    <Compile Include="CaesarAi.cs" />
+    <Compile Include="CanvasHud.cs" />
+    <Compile Include="CatapultShard.cs" />
+    <Compile Include="CavemanAi.cs" />
+    <Compile Include="ClassicSmoke.cs" />
+    <Compile Include="CoinFadeAway.cs" />
+    <Compile Include="Comet.cs" />
+    <Compile Include="EndgameScreen.cs" />
+    <Compile Include="EnemyAi.cs" />
+    <Compile Include="EnemyMessage.cs" />
+    <Compile Include="ExpDrop.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="GameState.cs" />
+    <Compile Include="GeneralCard.cs" />
+    <Compile Include="GoldDrop.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Achievement.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\DummyClient.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\InvitationReceivedDelegate.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\IPlayGamesClient.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\Invitation.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\IRealTimeMultiplayerClient.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\ITurnBasedMultiplayerClient.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\MatchDelegate.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\MatchOutcome.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\Participant.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\Player.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\RealTimeMultiplayerListener.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\Multiplayer\TurnBasedMatch.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\OnStateLoadedListener.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\PlayGamesClientConfiguration.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\ConflictCallback.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\ConflictResolutionStrategy.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\DataSource.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\IConflictResolver.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\ISavedGameClient.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\ISavedGameMetadata.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\SavedGameMetadataUpdate.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\SavedGameRequestStatus.cs" />
+    <Compile Include="GooglePlayGames\BasicApi\SavedGame\SelectUIStatus.cs" />
+    <Compile Include="GooglePlayGames\GameInfo.cs" />
+    <Compile Include="GooglePlayGames\Native\AndroidAppStateClient.cs" />
+    <Compile Include="GooglePlayGames\Native\AppStateClient.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Achievement.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\AchievementManager.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\AndroidPlatformConfiguration.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Builder.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\CommonErrorStatus.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\GameServices.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\InternalHooks.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\IosPlatformConfiguration.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Leaderboard.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\LeaderboardManager.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\MultiplayerInvitation.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\MultiplayerParticipant.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\ParticipantResults.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Player.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\PlayerManager.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\RealTimeEventListenerHelper.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\RealTimeMultiplayerManager.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\RealTimeRoom.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\RealTimeRoomConfig.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\RealTimeRoomConfigBuilder.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Score.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\ScorePage.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\ScoreSummary.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Sentinels.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\SnapshotManager.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\SnapshotMetadata.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\SnapshotMetadataChange.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\SnapshotMetadataChangeBuilder.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Status.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\SymbolLocation.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\TurnBasedMatch.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\TurnBasedMatchConfig.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\TurnBasedMatchConfigBuilder.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\TurnBasedMultiplayerManager.cs" />
+    <Compile Include="GooglePlayGames\Native\Cwrapper\Types.cs" />
+    <Compile Include="GooglePlayGames\Native\JavaUtils.cs" />
+    <Compile Include="GooglePlayGames\Native\LeaderboardManager.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeAchievement.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeClient.cs" />
+    <Compile Include="GooglePlayGames\Native\NativePlayer.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeRealtimeMultiplayerClient.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeSavedGameClient.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeSnapshotMetadata.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeSnapshotMetadataChange.cs" />
+    <Compile Include="GooglePlayGames\Native\NativeTurnBasedMultiplayerClient.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\AchievementManager.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\AndroidPlatformConfiguration.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\BaseReferenceHolder.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\Callbacks.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\GameServices.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\GameServicesBuilder.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\IosPlatformConfiguration.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\MultiplayerInvitation.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\MultiplayerParticipant.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\NativeRealTimeRoom.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\NativeTurnBasedMatch.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\ParticipantResults.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\PInvokeUtilities.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\PlatformConfiguration.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\PlayerSelectUIResponse.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\RealTimeEventListenerHelper.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\RealtimeManager.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\RealtimeRoomConfig.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\RealtimeRoomConfigBuilder.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\SnapshotManager.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\TurnBasedManager.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\TurnBasedMatchConfig.cs" />
+    <Compile Include="GooglePlayGames\Native\PInvoke\TurnBasedMatchConfigBuilder.cs" />
+    <Compile Include="GooglePlayGames\Native\PlayerManager.cs" />
+    <Compile Include="GooglePlayGames\Native\UnsupportedAppStateClient.cs" />
+    <Compile Include="GooglePlayGames\Native\UnsupportedSavedGamesClient.cs" />
+    <Compile Include="GooglePlayGames\OurUtils\Logger.cs" />
+    <Compile Include="GooglePlayGames\OurUtils\Misc.cs" />
+    <Compile Include="GooglePlayGames\OurUtils\PlayGamesHelperObject.cs" />
+    <Compile Include="GooglePlayGames\PlayGamesAchievement.cs" />
+    <Compile Include="GooglePlayGames\PlayGamesClientFactory.cs" />
+    <Compile Include="GooglePlayGames\PlayGamesLocalUser.cs" />
+    <Compile Include="GooglePlayGames\PlayGamesPlatform.cs" />
+    <Compile Include="GooglePlayGames\PlayGamesScore.cs" />
+    <Compile Include="GooglePlayGames\PlayGamesUserProfile.cs" />
+    <Compile Include="GooglePlayGames\PluginVersion.cs" />
+    <Compile Include="GooglePlayGames\ReportProgress.cs" />
+    <Compile Include="HitlerAi.cs" />
+    <Compile Include="Hud.cs" />
+    <Compile Include="HUDFPS.cs" />
+    <Compile Include="JSONObject.cs" />
+    <Compile Include="JSONTemplates.cs" />
+    <Compile Include="KhanAi.cs" />
+    <Compile Include="LoadingScreen.cs" />
+    <Compile Include="MainCamera.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="MaterialsTextureLoader.cs" />
+    <Compile Include="MoveToLayer.cs" />
+    <Compile Include="NapoleonAi.cs" />
+    <Compile Include="OilPart.cs" />
+    <Compile Include="OilPour.cs" />
+    <Compile Include="OilPourPart.cs" />
+    <Compile Include="OpenIABTest.cs" />
+    <Compile Include="Particle.cs" />
+    <Compile Include="PrefabCache.cs" />
+    <Compile Include="Prime31\GameCenterEventListener.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RamsesAi.cs" />
+    <Compile Include="RobotAi.cs" />
+    <Compile Include="SkeletonAnimation.cs" />
+    <Compile Include="SkeletonDataAsset.cs" />
+    <Compile Include="SkeletonExtensions.cs" />
+    <Compile Include="SkeletonRenderer.cs" />
+    <Compile Include="SkeletonUtility.cs" />
+    <Compile Include="SkeletonUtilityBone.cs" />
+    <Compile Include="SkeletonUtilityConstraint.cs" />
+    <Compile Include="SkeletonUtilityEyeConstraint.cs" />
+    <Compile Include="SkeletonUtilityGroundConstraint.cs" />
+    <Compile Include="SkeletonUtilityKinematicShadow.cs" />
+    <Compile Include="SkeletonUtilitySubmeshRenderer.cs" />
+    <Compile Include="Sling.cs" />
+    <Compile Include="SpecialArrow.cs" />
+    <Compile Include="SpecialArrows.cs" />
+    <Compile Include="SpecialBeam.cs" />
+    <Compile Include="SpecialBeamCircle.cs" />
+    <Compile Include="SpecialBomb.cs" />
+    <Compile Include="SpecialBomber.cs" />
+    <Compile Include="SpecialComets.cs" />
+    <Compile Include="SpecialHeal.cs" />
+    <Compile Include="Spine\Animation.cs" />
+    <Compile Include="Spine\AnimationState.cs" />
+    <Compile Include="Spine\AnimationStateData.cs" />
+    <Compile Include="Spine\Atlas.cs" />
+    <Compile Include="Spine\AtlasAttachmentLoader.cs" />
+    <Compile Include="Spine\AtlasPage.cs" />
+    <Compile Include="Spine\AtlasRegion.cs" />
+    <Compile Include="Spine\Attachment.cs" />
+    <Compile Include="Spine\AttachmentLoader.cs" />
+    <Compile Include="Spine\AttachmentTimeline.cs" />
+    <Compile Include="Spine\AttachmentType.cs" />
+    <Compile Include="Spine\Bone.cs" />
+    <Compile Include="Spine\BoneData.cs" />
+    <Compile Include="Spine\BoundingBoxAttachment.cs" />
+    <Compile Include="Spine\ColorTimeline.cs" />
+    <Compile Include="Spine\CurveTimeline.cs" />
+    <Compile Include="Spine\DrawOrderTimeline.cs" />
+    <Compile Include="Spine\Event.cs" />
+    <Compile Include="Spine\EventData.cs" />
+    <Compile Include="Spine\EventTimeline.cs" />
+    <Compile Include="Spine\FFDTimeline.cs" />
+    <Compile Include="Spine\FlipXTimeline.cs" />
+    <Compile Include="Spine\FlipYTimeline.cs" />
+    <Compile Include="Spine\Format.cs" />
+    <Compile Include="Spine\IkConstraint.cs" />
+    <Compile Include="Spine\IkConstraintData.cs" />
+    <Compile Include="Spine\IkConstraintTimeline.cs" />
+    <Compile Include="Spine\Json.cs" />
+    <Compile Include="Spine\MeshAttachment.cs" />
+    <Compile Include="Spine\Polygon.cs" />
+    <Compile Include="Spine\RegionAttachment.cs" />
+    <Compile Include="Spine\RotateTimeline.cs" />
+    <Compile Include="Spine\ScaleTimeline.cs" />
+    <Compile Include="Spine\Skeleton.cs" />
+    <Compile Include="Spine\SkeletonBounds.cs" />
+    <Compile Include="Spine\SkeletonData.cs" />
+    <Compile Include="Spine\SkeletonJson.cs" />
+    <Compile Include="Spine\Skin.cs" />
+    <Compile Include="Spine\SkinnedMeshAttachment.cs" />
+    <Compile Include="Spine\Slot.cs" />
+    <Compile Include="Spine\SlotData.cs" />
+    <Compile Include="Spine\TextureFilter.cs" />
+    <Compile Include="Spine\TextureLoader.cs" />
+    <Compile Include="Spine\TextureWrap.cs" />
+    <Compile Include="Spine\Timeline.cs" />
+    <Compile Include="Spine\TrackEntry.cs" />
+    <Compile Include="Spine\TranslateTimeline.cs" />
+    <Compile Include="StalinAi.cs" />
+    <Compile Include="Submesh.cs" />
+    <Compile Include="SuperSoldierModifier.cs" />
+    <Compile Include="Turret.cs" />
+    <Compile Include="TurretAnimated.cs" />
+    <Compile Include="TurretShoot.cs" />
+    <Compile Include="TzuAi.cs" />
+    <Compile Include="Unit.cs" />
+    <Compile Include="UnitSpine.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
+      <Project>{9BC1AB98-159B-48D2-9A84-DE3A9D609DB7}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\mscorlib\mscorlib.csproj">
+      <Project>{9BC1AB98-159B-48D2-9A84-DE3A9D609DBA}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System\System.csproj">
+      <Project>{9BC1AB98-159B-48D2-9A84-DE3A9D609DBD}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnityEngine\UnityEngine.csproj">
+      <Project>{9BC1AB98-159B-48D2-9A84-DE3A9D609DBE}</Project>
+      <Name>UnityEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

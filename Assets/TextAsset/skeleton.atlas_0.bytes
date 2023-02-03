@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FutureisticWarrior/arm1
+  rotate: false
+  xy: 768, 164
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/arm2
+  rotate: false
+  xy: 697, 162
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/heavy sword0001
+  rotate: true
+  xy: 188, 81
+  size: 168, 251
+  orig: 168, 251
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/helmet
+  rotate: false
+  xy: 840, 185
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/lega
+  rotate: false
+  xy: 533, 72
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/legb
+  rotate: true
+  xy: 188, 14
+  size: 65, 124
+  orig: 65, 124
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/pauldron
+  rotate: true
+  xy: 314, 16
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/pelvis
+  rotate: true
+  xy: 585, 144
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/slash0002
+  rotate: false
+  xy: 2, 2
+  size: 184, 247
+  orig: 184, 247
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/torso
+  rotate: true
+  xy: 441, 83
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+classicrifleman/Tween 3
+  rotate: false
+  xy: 441, 160
+  size: 142, 89
+  orig: 142, 89
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: false
+  xy: 585, 87
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1

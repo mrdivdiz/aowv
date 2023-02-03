@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 9085f27b317c8374ead14c7771d6cbbb
+timeCreated: 1675248355
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: part120014
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 162
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: part120014
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 64.07612
+        width: 80.89713
+        height: 96.84776
+      alignment: 9
+      pivot: {x: 0.5676824, y: 0.1747473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.52468, y: -20.5}
+        - {x: -18.52468, y: -20.5}
+        - {x: -18.52468, y: -26.5}
+        - {x: -21.52469, y: -27.5}
+        - {x: -27.52468, y: -27.5}
+        - {x: -28.52468, y: -26.5}
+        - {x: -28.52468, y: -20.5}
+        - {x: -29.52468, y: -20.5}
+        - {x: -40.52468, y: -15.5}
+        - {x: -40.52468, y: 24.5}
+        - {x: -19.52468, y: 48.5}
+        - {x: 21.47532, y: 48.5}
+        - {x: 31.47532, y: 46.5}
+        - {x: 40.47532, y: 37.5}
+        - {x: 40.47532, y: -20.5}
+        - {x: 35.47532, y: -20.5}
+        - {x: 35.47532, y: -22.5}
+        - {x: 32.47532, y: -25.5}
+        - {x: 34.47532, y: -25.5}
+        - {x: 37.47532, y: -28.5}
+        - {x: 37.47532, y: -36.5}
+        - {x: 29.47532, y: -36.5}
+        - {x: 29.47532, y: -28.5}
+        - {x: 31.47532, y: -25.5}
+        - {x: 29.47532, y: -25.5}
+        - {x: 27.47532, y: -23.5}
+        - {x: 27.47532, y: -20.5}
+        - {x: -5.524685, y: -20.5}
+        - {x: -5.524685, y: -21.5}
+        - {x: -5.524685, y: -24.5}
+        - {x: -7.524685, y: -26.5}
+        - {x: -12.52468, y: -26.5}
+        - {x: -13.52468, y: -24.5}
+      - - {x: -12.52468, y: -39.5}
+        - {x: -20.52468, y: -39.5}
+        - {x: -20.52468, y: -31.5}
+        - {x: -19.52468, y: -29.5}
+        - {x: -12.52468, y: -29.5}
+        - {x: -11.52468, y: -33.5}
+        - {x: -11.52468, y: -38.5}
+      - - {x: 21.47532, y: -44.5}
+        - {x: 18.47532, y: -41.5}
+        - {x: 18.47532, y: -34.5}
+        - {x: 22.47532, y: -33.5}
+        - {x: 28.47532, y: -33.5}
+        - {x: 28.47532, y: -41.5}
+        - {x: 25.47532, y: -44.5}
+      - - {x: -21.52469, y: -48.5}
+        - {x: -23.52468, y: -46.5}
+        - {x: -23.52468, y: -43.5}
+        - {x: -21.52469, y: -41.5}
+        - {x: -19.52468, y: -41.5}
+        - {x: -17.52468, y: -43.5}
+        - {x: -17.52468, y: -46.5}
+        - {x: -19.52468, y: -48.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

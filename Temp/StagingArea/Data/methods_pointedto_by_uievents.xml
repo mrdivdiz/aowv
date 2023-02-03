@@ -1,0 +1,55 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenu">
+			<method name="hackedToggle"/>
+			<method name="LoadEngineWithGeneral"/>
+			<method name="StartGeneral"/>
+			<method name="returnToMainMenuButton"/>
+			<method name="switchToDifficutlySelect"/>
+			<method name="RestoreTransactions"/>
+			<method name="NormalGame"/>
+			<method name="StartGeneral"/>
+			<method name="HardGame"/>
+			<method name="soundtrackToggle"/>
+			<method name="moreGames"/>
+			<method name="switchToStoreMenu"/>
+			<method name="StartGeneral"/>
+			<method name="switchToAchievements"/>
+			<method name="ImpossibleGame"/>
+			<method name="StartGeneral"/>
+			<method name="StartGeneral"/>
+			<method name="switchToGameTypeSelect"/>
+			<method name="StartGeneral"/>
+			<method name="StartGeneral"/>
+			<method name="activateSocialPlatform"/>
+			<method name="StartGeneral"/>
+			<method name="switchToCredits"/>
+			<method name="StartGeneral"/>
+			<method name="activateSocialPlatform"/>
+			<method name="StartGeneral"/>
+			<method name="switchToGeneralsSelect"/>
+		</type>
+		<type fullname="Banner">
+			<method name="FollowLink"/>
+		</type>
+		<type fullname="CanvasHud">
+			<method name="restartButton"/>
+			<method name="settings"/>
+			<method name="specialButton"/>
+			<method name="restartButton"/>
+			<method name="buttonPress"/>
+			<method name="buttonPress"/>
+			<method name="buttonPress"/>
+			<method name="buttonPress"/>
+			<method name="resumeButton"/>
+			<method name="buttonPress"/>
+			<method name="quitButton"/>
+			<method name="specialButton"/>
+		</type>
+		<type fullname="Game">
+			<method name="toggleSound"/>
+			<method name="toggleSound"/>
+			<method name="toggleSound"/>
+		</type>
+	</assembly>
+</linker>

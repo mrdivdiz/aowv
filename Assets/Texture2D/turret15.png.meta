@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 3c993ee70ab427c49ba4360237804d43
+timeCreated: 1675248308
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: turret15_0
+    21300002: turret15_1
+    21300004: turret15_2
+    21300006: turret15_3
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turret15_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 73
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -41}
+        - {x: -1.5, y: -44}
+        - {x: -2.5, y: -45}
+        - {x: -10.5, y: -45}
+        - {x: -19.5, y: -33}
+        - {x: -36.5, y: -4}
+        - {x: -36.5, y: 5}
+        - {x: -18.5, y: 16}
+        - {x: -20.5, y: 18}
+        - {x: -22.5, y: 31}
+        - {x: -11.5, y: 45}
+        - {x: 15.5, y: 45}
+        - {x: 36.5, y: 31}
+        - {x: 36.5, y: -21}
+        - {x: 32.5, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret15_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 211
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -20.5}
+        - {x: -20.5, y: -20.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -18.5, y: 20.5}
+        - {x: 12.5, y: 20.5}
+        - {x: 20.5, y: 11.5}
+        - {x: 20.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret15_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -17.5}
+        - {x: -18, y: -16.5}
+        - {x: -18, y: 11.5}
+        - {x: -13, y: 17.5}
+        - {x: 13, y: 17.5}
+        - {x: 18, y: 14.5}
+        - {x: 18, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret15_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -19.5}
+        - {x: -13.5, y: 19.5}
+        - {x: 13.5, y: 19.5}
+        - {x: 13.5, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

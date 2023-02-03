@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2301752543
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buildings
+    uniqueID: 4258872773
+    locked: 0
+  - name: Units
+    uniqueID: 3968313095
+    locked: 0
+  - name: Blood
+    uniqueID: 3928978569
+    locked: 0
+  - name: Hud
+    uniqueID: 3567283865
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 1112326927
+    locked: 0
+  - name: Loading
+    uniqueID: 2126946079
+    locked: 0
+  - name: Turrets
+    uniqueID: 1398347883
+    locked: 0

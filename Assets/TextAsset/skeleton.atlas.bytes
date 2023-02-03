@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armure_cou
+  rotate: false
+  xy: 717, 199
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+cou
+  rotate: false
+  xy: 234, 43
+  size: 139, 159
+  orig: 139, 159
+  offset: 0, 0
+  index: -1
+drap_corps
+  rotate: false
+  xy: 2, 34
+  size: 230, 168
+  orig: 230, 168
+  offset: 0, 0
+  index: -1
+drap_cou
+  rotate: false
+  xy: 375, 74
+  size: 96, 118
+  orig: 96, 118
+  offset: 0, 0
+  index: -1
+genou
+  rotate: true
+  xy: 2, 2
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+patte
+  rotate: false
+  xy: 564, 90
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+paul
+  rotate: true
+  xy: 473, 86
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+riderparts/corde
+  rotate: false
+  xy: 412, 194
+  size: 143, 54
+  orig: 143, 54
+  offset: 0, 0
+  index: -1
+riderparts/knight_backarm1
+  rotate: true
+  xy: 913, 222
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+riderparts/knight_backarm2
+  rotate: true
+  xy: 56, 6
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+riderparts/knight_drap
+  rotate: false
+  xy: 580, 8
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+riderparts/knight_forarm
+  rotate: true
+  xy: 642, 202
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+riderparts/knight_forleg
+  rotate: true
+  xy: 375, 17
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+riderparts/knight_head
+  rotate: false
+  xy: 713, 138
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+riderparts/knight_plate
+  rotate: true
+  xy: 557, 195
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+riderparts/knight_spear
+  rotate: true
+  xy: 2, 204
+  size: 44, 408
+  orig: 44, 408
+  offset: 0, 0
+  index: -1
+riderparts/knight_uparm
+  rotate: true
+  xy: 852, 211
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+riderparts/knight_upleg
+  rotate: true
+  xy: 781, 211
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+sabot
+  rotate: false
+  xy: 713, 103
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+selle
+  rotate: true
+  xy: 645, 102
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+tete
+  rotate: true
+  xy: 476, 14
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1

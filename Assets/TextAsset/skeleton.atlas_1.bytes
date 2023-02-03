@@ -1,0 +1,202 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dinorider/caveman_forarm
+  rotate: true
+  xy: 412, 210
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+dinorider/caveman_forarm_in
+  rotate: false
+  xy: 263, 8
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+dinorider/caveman_forleg
+  rotate: true
+  xy: 531, 27
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+dinorider/caveman_torso
+  rotate: false
+  xy: 531, 71
+  size: 95, 158
+  orig: 95, 158
+  offset: 0, 0
+  index: -1
+dinorider/caveman_uparm
+  rotate: true
+  xy: 472, 211
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+dinorider/caveman_upleg
+  rotate: false
+  xy: 994, 200
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+dinorider/caveman_weapon
+  rotate: true
+  xy: 412, 231
+  size: 23, 392
+  orig: 23, 392
+  offset: 0, 0
+  index: -1
+dinorider/dino_head
+  rotate: false
+  xy: 628, 126
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+dinorider/dino_leg11
+  rotate: false
+  xy: 188, 8
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+dinorider/dino_leg12
+  rotate: false
+  xy: 736, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dinorider/dino_leg13
+  rotate: false
+  xy: 287, 2
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+dinorider/dino_leg21
+  rotate: false
+  xy: 849, 193
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+dinorider/dino_leg22
+  rotate: false
+  xy: 920, 158
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+dinorider/dino_leg23
+  rotate: false
+  xy: 849, 111
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dinorider/dino_torso
+  rotate: false
+  xy: 2, 70
+  size: 295, 138
+  orig: 295, 138
+  offset: 0, 0
+  index: -1
+drap_corps
+  rotate: false
+  xy: 299, 40
+  size: 230, 168
+  orig: 230, 168
+  offset: 0, 0
+  index: -1
+genou
+  rotate: true
+  xy: 324, 8
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+patte
+  rotate: false
+  xy: 768, 126
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+paul
+  rotate: false
+  xy: 628, 35
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+riderparts/knight_backarm2
+  rotate: false
+  xy: 892, 120
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+riderparts/knight_forarm
+  rotate: true
+  xy: 919, 208
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+riderparts/knight_forleg
+  rotate: true
+  xy: 2, 13
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+riderparts/knight_plate
+  rotate: true
+  xy: 103, 15
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+riderparts/knight_spear
+  rotate: true
+  xy: 2, 210
+  size: 44, 408
+  orig: 44, 408
+  offset: 0, 0
+  index: -1
+riderparts/knight_uparm
+  rotate: true
+  xy: 777, 15
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+riderparts/knight_upleg
+  rotate: true
+  xy: 849, 154
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+sabot
+  rotate: true
+  xy: 378, 11
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+tete
+  rotate: true
+  xy: 736, 54
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1

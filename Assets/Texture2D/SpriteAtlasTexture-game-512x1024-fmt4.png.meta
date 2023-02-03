@@ -1,0 +1,1849 @@
+fileFormatVersion: 2
+guid: 1cfd630feb94c6a4883948fb8f470579
+timeCreated: 1675248306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: turret1_0
+    21300002: turret12_0
+    21300004: turret3_0
+    21300006: turret2_0
+    21300008: turret9_0
+    21300010: turret4_0
+    21300012: Buttons_0
+    21300014: turret10_0
+    21300016: turret14_0
+    21300018: turret13_1
+    21300020: turret8_0
+    21300022: bullets_0
+    21300024: turret6_0
+    21300026: turret11_0
+    21300028: turret1_1
+    21300030: turret3_1
+    21300032: turret2_1
+    21300034: turret4_1
+    21300036: Buttons_1
+    21300038: turret7_1
+    21300040: turret10_1
+    21300042: turret14_1
+    21300044: turret13_1
+    21300046: turret6_1
+    21300048: turret11_1
+    21300050: turret1_2
+    21300052: turret3_2
+    21300054: turret2_2
+    21300056: turret4_2
+    21300058: Buttons_2
+    21300060: turret7_4
+    21300062: turret10_2
+    21300064: turret14_2
+    21300066: turret13_2
+    21300068: bullets_2
+    21300070: turret1_3
+    21300072: turret3_3
+    21300074: turret2_3
+    21300076: turret4_3
+    21300078: Buttons_3
+    21300080: turret10_3
+    21300082: turret14_3
+    21300084: bullets_3
+    21300086: turret1_4
+    21300088: Buttons_4
+    21300090: turret7_2
+    21300092: turret10_4
+    21300094: bullets_4
+    21300096: Buttons_5
+    21300098: turret7_3
+    21300100: turret10_5
+    21300102: bullets_5
+    21300104: Buttons_6
+    21300106: bullets_6
+    21300108: Buttons_7
+    21300110: bullets_7
+    21300112: Buttons_8
+    21300114: Buttons_9
+    21300116: Buttons_10
+    21300118: Buttons_11
+    21300120: Buttons_12
+    21300122: Buttons_13
+    21300124: Buttons_14
+    21300126: Buttons_15
+    21300128: Buttons_16
+    21300130: Buttons_17
+    21300132: Buttons_18
+    21300134: Buttons_19
+    21300136: Buttons_20
+    21300138: Buttons_21
+    21300140: Buttons_22
+    21300142: Buttons_23
+    21300144: Buttons_24
+    21300146: Buttons_25
+    21300148: Buttons_26
+    21300150: Buttons_27
+    21300152: Buttons_28
+    21300154: Buttons_29
+    21300156: Buttons_30
+    21300158: Buttons_31
+    21300160: Buttons_32
+    21300162: Buttons_33
+    21300164: Buttons_34
+    21300166: Buttons_35
+    21300168: Buttons_36
+    21300170: Buttons_40
+    21300172: Buttons_41
+    21300174: Buttons_42
+    21300176: Buttons_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turret1_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 955
+        width: 94
+        height: 11
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -5.5}
+        - {x: -47, y: 5.5}
+        - {x: 47, y: 5.5}
+        - {x: 47, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret12_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 683
+        width: 81
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: -19}
+        - {x: -40.5, y: -19}
+        - {x: -40.5, y: 19}
+        - {x: 39.5, y: 19}
+        - {x: 40.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 172
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7767361, y: 0.5329047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: -22.5}
+        - {x: -86, y: -10.5}
+        - {x: -86, y: 24.5}
+        - {x: -59, y: 30.5}
+        - {x: 86, y: 30.5}
+        - {x: 86, y: -5.5}
+        - {x: 84, y: -6.5}
+        - {x: 62, y: -13.5}
+        - {x: 55, y: -18.5}
+        - {x: 35, y: -30.5}
+        - {x: 0, y: -30.5}
+        - {x: -64, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret2_0
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 514
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8494626, y: 0.1113105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.999999, y: -22.5}
+        - {x: -16, y: -8.5}
+        - {x: -16, y: 18.5}
+        - {x: -14, y: 22.5}
+        - {x: 16, y: 22.5}
+        - {x: 16, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret9_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 830
+        width: 97
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -17}
+        - {x: -48.5, y: -15}
+        - {x: -48.5, y: 15}
+        - {x: -47.5, y: 17}
+        - {x: 19.5, y: 17}
+        - {x: 48.5, y: 15}
+        - {x: 48.5, y: -15}
+        - {x: 11.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret4_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 913
+        width: 102
+        height: 18
+      alignment: 9
+      pivot: {x: 0.9272965, y: 0.5159302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -9}
+        - {x: -51, y: 9}
+        - {x: 51, y: 9}
+        - {x: 51, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 86
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -42}
+        - {x: -41.5, y: -42}
+        - {x: -41.5, y: 42}
+        - {x: 41.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret10_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 876
+        width: 77
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -35.5}
+        - {x: -38.5, y: -24.5}
+        - {x: -38.5, y: 25.5}
+        - {x: -35.5, y: 35.5}
+        - {x: -21.5, y: 35.5}
+        - {x: 38.5, y: 0.5}
+        - {x: 38.5, y: -13.5}
+        - {x: -13.5, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret14_0
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -24}
+        - {x: -26.5, y: -21}
+        - {x: -26.5, y: 24}
+        - {x: 26.5, y: 24}
+        - {x: 26.5, y: -23}
+        - {x: 20.5, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret13_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 127
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: -19}
+        - {x: -63.5, y: -19}
+        - {x: -63.5, y: 19}
+        - {x: 41.5, y: 19}
+        - {x: 59.5, y: 11}
+        - {x: 63.5, y: 5}
+        - {x: 63.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret8_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 876
+        width: 97
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -17}
+        - {x: -48.5, y: -13}
+        - {x: -48.5, y: 15}
+        - {x: -46.5, y: 17}
+        - {x: 48.5, y: 17}
+        - {x: 48.5, y: -13}
+        - {x: 22.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_0
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 470
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -14}
+        - {x: -15, y: 14}
+        - {x: 15, y: 14}
+        - {x: 15, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.5, y: -48}
+        - {x: -124.5, y: -47}
+        - {x: -124.5, y: 40}
+        - {x: -40.5, y: 64}
+        - {x: 108.5, y: 64}
+        - {x: 111.5, y: 60}
+        - {x: 124.5, y: 1}
+        - {x: 124.5, y: -64}
+        - {x: 43.5, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret11_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 723
+        width: 55
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -21.5}
+        - {x: -27.5, y: -21.5}
+        - {x: -27.5, y: 18.5}
+        - {x: -24.5, y: 21.5}
+        - {x: 21.5, y: 21.5}
+        - {x: 27.5, y: 16.5}
+        - {x: 27.5, y: -20.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret1_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 571
+        width: 14
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -13.5}
+        - {x: -7, y: 13.5}
+        - {x: 7, y: 13.5}
+        - {x: 7, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret3_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 395
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -24.5}
+        - {x: -24, y: -14.5}
+        - {x: -24, y: 13.5}
+        - {x: -13, y: 24.5}
+        - {x: 17, y: 24.5}
+        - {x: 24, y: 15.5}
+        - {x: 24, y: -17.5}
+        - {x: 19, y: -24.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret2_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 946
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -25}
+        - {x: -24, y: -22}
+        - {x: -24, y: 18}
+        - {x: -22, y: 25}
+        - {x: 22, y: 25}
+        - {x: 24, y: 19}
+        - {x: 24, y: -22}
+        - {x: 18, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret4_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 470
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -12.5}
+        - {x: -13, y: 12.5}
+        - {x: 13, y: 12.5}
+        - {x: 13, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 193
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret7_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 794
+        width: 27
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -7.5}
+        - {x: -13.5, y: 7.5}
+        - {x: 13.5, y: 7.5}
+        - {x: 13.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret10_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 636
+        width: 41
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -11}
+        - {x: -20.5, y: 11}
+        - {x: 20.5, y: 11}
+        - {x: 20.5, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret14_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 554
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -20.5}
+        - {x: -20.5, y: -20.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -18.5, y: 20.5}
+        - {x: 12.5, y: 20.5}
+        - {x: 20.5, y: 11.5}
+        - {x: 20.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret13_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 826
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -21.5}
+        - {x: -21.5, y: -13.5}
+        - {x: -21.5, y: 12.5}
+        - {x: -19.5, y: 15.5}
+        - {x: -15.5, y: 19.5}
+        - {x: -12.5, y: 21.5}
+        - {x: 12.5, y: 21.5}
+        - {x: 21.5, y: 17.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 15.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret6_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 866
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4692783, y: 0.3343291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -22.5}
+        - {x: -28, y: -22.5}
+        - {x: -28, y: 22.5}
+        - {x: 28, y: 22.5}
+        - {x: 28, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret11_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 968
+        width: 63
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -8}
+        - {x: -31.5, y: 8}
+        - {x: 31.5, y: 8}
+        - {x: 31.5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret1_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 183
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -14}
+        - {x: -15, y: 14}
+        - {x: 15, y: 14}
+        - {x: 15, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret3_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 143
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -19.5}
+        - {x: -9.5, y: 19.5}
+        - {x: 9.5, y: 19.5}
+        - {x: 9.5, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret2_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 789
+        width: 64
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.229647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -17.5}
+        - {x: -32, y: -5.5}
+        - {x: -32, y: 11.5}
+        - {x: -10, y: 14.5}
+        - {x: 15, y: 17.5}
+        - {x: 32, y: 17.5}
+        - {x: 32, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret4_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 971
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 12}
+        - {x: -10, y: 16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret7_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 143
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -19}
+        - {x: -18, y: -19}
+        - {x: -18, y: 19}
+        - {x: 18, y: 19}
+        - {x: 18, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret10_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 50
+        width: 33
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -21.5}
+        - {x: -16.5, y: -21.5}
+        - {x: -16.5, y: 9.5}
+        - {x: -15.5, y: 21.5}
+        - {x: 13.5, y: 21.5}
+        - {x: 16.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret14_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 216
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -16}
+        - {x: -16.5, y: -16}
+        - {x: -16.5, y: 12}
+        - {x: -13.5, y: 16}
+        - {x: 13.5, y: 16}
+        - {x: 16.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret13_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 794
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -21.5}
+        - {x: -21.5, y: -13.5}
+        - {x: -21.5, y: 15.5}
+        - {x: -15.5, y: 21.5}
+        - {x: 13.5, y: 21.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 21.5, y: -13.5}
+        - {x: 18.5, y: -16.5}
+        - {x: 11.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 834
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -10.5}
+        - {x: -10.5, y: 10.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 10.5, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret1_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 343
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -25}
+        - {x: -24.5, y: -17}
+        - {x: -24.5, y: 23}
+        - {x: -16.5, y: 25}
+        - {x: 22.5, y: 25}
+        - {x: 24.5, y: 21}
+        - {x: 24.5, y: -20}
+        - {x: 20.5, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret3_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 103
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -19}
+        - {x: -20.5, y: -19}
+        - {x: -20.5, y: 18}
+        - {x: -19.5, y: 19}
+        - {x: 20.5, y: 19}
+        - {x: 20.5, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret2_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 790
+        width: 95
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: -13}
+        - {x: 2.5, y: -19}
+        - {x: -43.5, y: -19}
+        - {x: -47.5, y: -9}
+        - {x: -47.5, y: 19}
+        - {x: 33.5, y: 19}
+        - {x: 47.5, y: 11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret4_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 50
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -25.5}
+        - {x: -18, y: -4.5}
+        - {x: -18, y: 6.5}
+        - {x: -11, y: 25.5}
+        - {x: 7, y: 25.5}
+        - {x: 13, y: 19.5}
+        - {x: 18, y: 4.5}
+        - {x: 18, y: -17.5}
+        - {x: 12, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 623
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -41.5}
+        - {x: -41.5, y: -41.5}
+        - {x: -41.5, y: 41.5}
+        - {x: 41.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret10_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 213
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -9}
+        - {x: -10, y: 9}
+        - {x: 10, y: 9}
+        - {x: 10, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret14_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 595
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -19.5}
+        - {x: -13, y: 19.5}
+        - {x: 13, y: 19.5}
+        - {x: 13, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 887
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -10.5}
+        - {x: -10.5, y: 10.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 10.5, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret1_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 912
+        width: 96
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -16}
+        - {x: -48, y: -16}
+        - {x: -48, y: 0}
+        - {x: 8, y: 16}
+        - {x: 48, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 172
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret7_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 561
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -16}
+        - {x: -19, y: -16}
+        - {x: -19, y: 13}
+        - {x: -17, y: 16}
+        - {x: -1, y: 16}
+        - {x: 19, y: 5}
+        - {x: 19, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret10_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 600
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -10}
+        - {x: -9, y: 10}
+        - {x: 9, y: 10}
+        - {x: 9, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 994
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -5}
+        - {x: -7, y: 5}
+        - {x: 7, y: 5}
+        - {x: 7, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 258
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret7_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 768
+        width: 78
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -12}
+        - {x: -39, y: 12}
+        - {x: 39, y: 12}
+        - {x: 39, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turret10_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 723
+        width: 63
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -8}
+        - {x: -31.5, y: 8}
+        - {x: 31.5, y: 8}
+        - {x: 31.5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 794
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -19}
+        - {x: -20, y: -19}
+        - {x: -20, y: 19}
+        - {x: 20, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -42}
+        - {x: -42.5, y: -42}
+        - {x: -42.5, y: 42}
+        - {x: 42.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 257
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -13}
+        - {x: -17, y: 13}
+        - {x: 17, y: 13}
+        - {x: 17, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 257
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -42}
+        - {x: -41.5, y: -42}
+        - {x: -41.5, y: 42}
+        - {x: 41.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullets_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 955
+        width: 98
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -7}
+        - {x: -49, y: 7}
+        - {x: 49, y: 7}
+        - {x: 49, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 279
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 365
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 343
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -42}
+        - {x: -41.5, y: -42}
+        - {x: -41.5, y: 42}
+        - {x: 41.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 279
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 365
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 130
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 86
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 343
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -42}
+        - {x: -41.5, y: -42}
+        - {x: -41.5, y: 42}
+        - {x: 41.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 429
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 429
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 621
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -41.5}
+        - {x: -41.5, y: -41.5}
+        - {x: -41.5, y: 41.5}
+        - {x: 41.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -41.5}
+        - {x: -41.5, y: -41.5}
+        - {x: -41.5, y: 41.5}
+        - {x: 41.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 514
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -41.5}
+        - {x: -41.5, y: -41.5}
+        - {x: -41.5, y: 41.5}
+        - {x: 41.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 451
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -42}
+        - {x: -41.5, y: -42}
+        - {x: -41.5, y: 42}
+        - {x: 41.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 172
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -42}
+        - {x: -42, y: -42}
+        - {x: -42, y: 42}
+        - {x: 42, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 537
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -42}
+        - {x: -41.5, y: -42}
+        - {x: -41.5, y: 42}
+        - {x: 41.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 708
+        width: 83
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -41}
+        - {x: -41.5, y: -41}
+        - {x: -41.5, y: 41}
+        - {x: 41.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 706
+        width: 83
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -41}
+        - {x: -41.5, y: -41}
+        - {x: -41.5, y: 41}
+        - {x: 41.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 621
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -41}
+        - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 792
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -41}
+        - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 451
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 536
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -41.5}
+        - {x: -42, y: -41.5}
+        - {x: -42, y: 41.5}
+        - {x: 42, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 599
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -41}
+        - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -41}
+        - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 705
+        width: 82
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -41}
+        - {x: -41, y: -41}
+        - {x: -41, y: 41}
+        - {x: 41, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

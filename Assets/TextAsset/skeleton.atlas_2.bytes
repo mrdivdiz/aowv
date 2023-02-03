@@ -1,0 +1,524 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ClassicCanoneer/Symbol 1
+  rotate: true
+  xy: 384, 88
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+ClassicCanoneer/Symbol 1 copy
+  rotate: false
+  xy: 172, 367
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+ClassicCanoneer/armsteel
+  rotate: true
+  xy: 504, 95
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+ClassicCanoneer/tor_armored
+  rotate: true
+  xy: 433, 428
+  size: 82, 150
+  orig: 82, 150
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/Symbol 1
+  rotate: true
+  xy: 299, 106
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/Symbol 1 copy
+  rotate: true
+  xy: 2, 56
+  size: 201, 46
+  orig: 201, 46
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/Symbol 1 copy 2
+  rotate: false
+  xy: 679, 266
+  size: 42, 98
+  orig: 42, 98
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/Symbol 1 copy 3
+  rotate: false
+  xy: 797, 283
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/Symbol 1 copy 4
+  rotate: false
+  xy: 760, 35
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/arm
+  rotate: true
+  xy: 954, 316
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+ClassicSwordsman/tor
+  rotate: true
+  xy: 585, 433
+  size: 77, 150
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/arm1
+  rotate: false
+  xy: 652, 179
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/arm2
+  rotate: true
+  xy: 854, 181
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/heavy sword0001
+  rotate: false
+  xy: 2, 259
+  size: 168, 251
+  orig: 168, 251
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/helmet
+  rotate: false
+  xy: 705, 33
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/lega
+  rotate: false
+  xy: 437, 2
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/legb
+  rotate: true
+  xy: 585, 366
+  size: 65, 124
+  orig: 65, 124
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/pauldron
+  rotate: false
+  xy: 566, 101
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/pelvis
+  rotate: false
+  xy: 306, 367
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+FutureisticWarrior/torso
+  rotate: false
+  xy: 303, 14
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+SuperSoldier/Symbol-1-copy
+  rotate: false
+  xy: 631, 107
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+SuperSoldier/Symbol-1-copy-2
+  rotate: false
+  xy: 878, 436
+  size: 139, 74
+  orig: 139, 74
+  offset: 0, 0
+  index: -1
+SuperSoldier/Symbol-2
+  rotate: true
+  xy: 172, 193
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+SuperSoldier/Symbol-2-copy
+  rotate: true
+  xy: 437, 179
+  size: 91, 123
+  orig: 91, 123
+  offset: 0, 0
+  index: -1
+SuperSoldier/arma
+  rotate: true
+  xy: 724, 174
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+SuperSoldier/backpack
+  rotate: true
+  xy: 559, 277
+  size: 87, 118
+  orig: 87, 118
+  offset: 0, 0
+  index: -1
+SuperSoldier/hand1
+  rotate: true
+  xy: 626, 18
+  size: 81, 33
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+SuperSoldier/hand2
+  rotate: false
+  xy: 944, 112
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+SuperSoldier/leg
+  rotate: false
+  xy: 575, 8
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_forarm
+  rotate: false
+  xy: 782, 119
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_forarm_in
+  rotate: false
+  xy: 711, 391
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_forarm_in+hand
+  rotate: true
+  xy: 843, 69
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_forleg
+  rotate: false
+  xy: 809, 112
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_gun
+  rotate: false
+  xy: 855, 252
+  size: 99, 39
+  orig: 99, 39
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_head0001
+  rotate: true
+  xy: 852, 97
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_head0002
+  rotate: true
+  xy: 926, 138
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_knife
+  rotate: false
+  xy: 489, 2
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_sword
+  rotate: false
+  xy: 122, 91
+  size: 42, 166
+  orig: 42, 166
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_torso
+  rotate: false
+  xy: 805, 183
+  size: 47, 98
+  orig: 47, 98
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_uparm0001
+  rotate: true
+  xy: 852, 139
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+Swordsman/swordmen_upleg
+  rotate: true
+  xy: 765, 5
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+cavemanSlingshot/slignshot_torso
+  rotate: true
+  xy: 413, 369
+  size: 57, 124
+  orig: 57, 124
+  offset: 0, 0
+  index: -1
+cavemanSlingshot/slingshot_weapon
+  rotate: true
+  xy: 705, 2
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+classicrifleman/Symbol 1
+  rotate: false
+  xy: 863, 374
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+classicrifleman/Tween 3
+  rotate: false
+  xy: 172, 276
+  size: 142, 89
+  orig: 142, 89
+  offset: 0, 0
+  index: -1
+classicrifleman/musket
+  rotate: false
+  xy: 172, 479
+  size: 259, 31
+  orig: 259, 31
+  offset: 0, 0
+  index: -1
+clubman_club
+  rotate: true
+  xy: 305, 166
+  size: 26, 116
+  orig: 26, 116
+  offset: 0, 0
+  index: -1
+clubman_forarm
+  rotate: true
+  xy: 843, 48
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+clubman_forarm_in
+  rotate: false
+  xy: 987, 374
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+clubman_forleg
+  rotate: false
+  xy: 661, 20
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+clubman_torso
+  rotate: true
+  xy: 737, 383
+  size: 51, 124
+  orig: 51, 124
+  offset: 0, 0
+  index: -1
+clubman_uparm
+  rotate: false
+  xy: 983, 124
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+clubman_upleg
+  rotate: false
+  xy: 813, 56
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: false
+  xy: 539, 371
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 1
+  rotate: false
+  xy: 698, 99
+  size: 81, 33
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 1 copy
+  rotate: false
+  xy: 956, 244
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 1 copy 2
+  rotate: false
+  xy: 737, 436
+  size: 139, 74
+  orig: 139, 74
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 1 copy 3
+  rotate: false
+  xy: 909, 112
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 1 copy 4
+  rotate: false
+  xy: 524, 2
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 1 copy 5
+  rotate: false
+  xy: 562, 183
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 2
+  rotate: true
+  xy: 50, 2
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 2 copy
+  rotate: true
+  xy: 316, 274
+  size: 91, 123
+  orig: 91, 123
+  offset: 0, 0
+  index: -1
+futureranged/Symbol 2 copy 2
+  rotate: true
+  xy: 2, 6
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+futureranged/arma
+  rotate: false
+  xy: 855, 293
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+futureranged/backpack
+  rotate: true
+  xy: 183, 16
+  size: 87, 118
+  orig: 87, 118
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 1
+  rotate: true
+  xy: 166, 105
+  size: 86, 131
+  orig: 86, 131
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 1 copy
+  rotate: false
+  xy: 437, 90
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 1 copy 2
+  rotate: false
+  xy: 723, 273
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 1 copy 3
+  rotate: true
+  xy: 943, 180
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 1 copy 4
+  rotate: false
+  xy: 380, 2
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 1 copy 5
+  rotate: false
+  xy: 698, 134
+  size: 82, 38
+  orig: 82, 38
+  offset: 0, 0
+  index: -1
+modern melee soldier/Symbol 2
+  rotate: true
+  xy: 441, 272
+  size: 95, 116
+  orig: 95, 116
+  offset: 0, 0
+  index: -1
+modern melee soldier/asrifle
+  rotate: true
+  xy: 50, 85
+  size: 172, 70
+  orig: 172, 70
+  offset: 0, 0
+  index: -1
+modern melee soldier/flashmodern
+  rotate: false
+  xy: 305, 194
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1

@@ -109,15 +109,15 @@ public class GameState
 		{
 			//GameState.analytics.LogEvent("Achievement", "Unlocked", achievement.name, 1L);
 			achievement.progress = 1f;
-			if (!Social.localUser.authenticated)
-			{
+			//if (!Social.localUser.authenticated)
+			//{
 				Debug.Log("SHOW ACHIEVEMENT: " + achievement.name);
 				Game.instance.addAchievementToShow(achievement.name);
-			}
-			if (Social.localUser.authenticated)
-			{
-				Social.Active.ReportProgress(achievement.playId, 100.0, new Action<bool>(GameState.unlockResult));
-			}
+			//}
+			//if (Social.localUser.authenticated)
+			//{
+			//	Social.Active.ReportProgress(achievement.playId, 100.0, new Action<bool>(GameState.unlockResult));
+			//}
 			GameState.save();
 		}
 	}

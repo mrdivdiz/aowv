@@ -502,7 +502,7 @@ public class Game : MonoBehaviour
 			{
 				AudioSource.PlayClipAtPoint(this.upgradeAgeSound, Camera.main.transform.position);
 			}
-			GameState.analytics.LogEvent("Game", "Age", string.Empty + this.age, 1L);
+			//GameState.analytics.LogEvent("Game", "Age", string.Empty + this.age, 1L);
 			this.age++;
 			this.baseFriendly.UpgradeAge();
 			this.canvasHud.specialButtonImage.sprite = this.specialsSprites[this.age];

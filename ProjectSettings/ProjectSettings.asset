@@ -537,8 +537,8 @@ PlayerSettings:
   psp2ShortTitle: AoWV
   psp2ContentID: IV0000-AOWV00001_00-0123456789ABCDEF
   psp2Category: 0
-  psp2MasterVersion: 01.00
-  psp2AppVersion: 01.00
+  psp2MasterVersion: 01.01
+  psp2AppVersion: 01.01
   psp2TVBootMode: 0
   psp2EnterButtonAssignment: 2
   psp2TVDisableEmu: 0
